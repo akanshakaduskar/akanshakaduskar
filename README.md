@@ -11,11 +11,11 @@
 <p align="center">
   <a href="https://public.tableau.com/app/profile/akansha.kaduskar/vizzes"><img src="https://img.shields.io/badge/Tableau_Portfolio-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/akansha-kaduskar-827693252"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:akanshakaduskar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:akanshakaduskar0704@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=akanshakaduskar&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=2E9EF7" alt="Followers" />
   <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat&color=2E9EF7" alt="Stars" />
 </p>
@@ -124,15 +124,15 @@ Classifies network traffic as normal/attack, identifies attack type, and scores 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akanshakaduskar&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanshakaduskar&layout=compact&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akanshakaduskar&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/akanshakaduskar/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -162,7 +162,7 @@ open_to:
 ### 🤝 Connect
 
 <p align="center">
-  <a href="mailto:akanshakaduskar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:akanshakaduskar0704@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/akansha-kaduskar-827693252"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://public.tableau.com/app/profile/akansha.kaduskar/vizzes"><img src="https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
 </p>
