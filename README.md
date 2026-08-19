@@ -16,8 +16,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akanshakaduskar&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=2E9EF7" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat&color=2E9EF7" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/akanshakaduskar?label=Followers&style=flat&color=2E9EF7" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/akanshakaduskar?label=Stars&style=flat&color=2E9EF7" alt="Stars" />
 </p>
 
 ---
@@ -132,13 +132,14 @@ Classifies network traffic as normal/attack, identifies attack type, and scores 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/akanshakaduskar/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/akanshakaduskar/akanshakaduskar/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
 ### 🎯 Current Focus
 
+```yaml
 learning:
   - Big Data Technologies (BDT), DBMS, Data Visualization — PG-DBDA @ C-DAC
   - Core Java, Linux, Project Management & Leadership (PML)
@@ -156,6 +157,7 @@ open_to:
   - Data Analyst roles
   - Business Intelligence & Dashboarding roles
   - Entry-level Data Science / ML roles
+```
 
 ---
 
